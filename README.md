@@ -1,1 +1,1 @@
-# Nice_hotel
+# Nice_Hotel
